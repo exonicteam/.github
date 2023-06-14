@@ -1,1 +1,1 @@
-The new Minehut experience
+![EXONIC](./assets/text_white.png)
