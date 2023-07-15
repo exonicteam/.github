@@ -1,1 +1,2 @@
-![EXONIC](./assets/text_white.png)
+# Version Studios
+Bringing new experiences to Minecraft
