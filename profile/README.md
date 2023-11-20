@@ -1,4 +1,3 @@
-![Version Studios](https://github.com/versionstudios/assets/blob/main/Primary.png?raw=true)
----
+# Version Studios
 Making Minecraft fun again.
 https://versionstudios.net/
